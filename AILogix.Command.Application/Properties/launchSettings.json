@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AILogix.Command.Application": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\user\\Downloads\\repos-20260715T183825Z-1-001\\repos\\AILogix.Command.Center\\AILogix.Command.Center.UI"
+    }
+  }
+}
